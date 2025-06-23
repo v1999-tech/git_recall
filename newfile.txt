@@ -1,0 +1,1 @@
+GIT is a software designed to record changes made to files over time.
