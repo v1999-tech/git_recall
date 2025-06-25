@@ -1,0 +1,3 @@
+git diff - shows the difference between various commits working directory and staging area.
+
+It helps to see what changes have been made but not yet committed.
